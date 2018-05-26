@@ -1,0 +1,1 @@
+scala library container 2.11 and above doesn't have scala.parser.combinators anymore so I included the .jar file to import in with the Jedi project
